@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+mlartifacts/
+mlruns/
+*.db
+backups/
+.notebook_runtime/
+resultado_pipeline/demo_batches/
+resultado_pipeline/*.log
